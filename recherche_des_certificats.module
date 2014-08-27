@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the recherche des certificats feature.
+ */
+
+include_once 'recherche_des_certificats.features.inc';
